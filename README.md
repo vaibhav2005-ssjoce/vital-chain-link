@@ -1,73 +1,33 @@
-# Welcome to your Lovable project
+# Vital‑Chain‑Link
 
-## Project info
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-**URL**: https://lovable.dev/projects/aef4d6df-4f21-427b-9e24-edbeefd9fa30
+## 🚀 Overview
 
-## How can I edit this code?
+Vital‑Chain‑Link is a blockchain-based **JavaScript/TypeScript** web application designed to enable secure asset tracking and verification with transparency and trust. Built using modern web standards and tools to ensure real-time auditing and resilient performance.
 
-There are several ways of editing your application.
+## Features
 
-**Use Lovable**
+- 🔗 Track assets with blockchain transparency  
+- 🛡️ Validate authenticity via cryptographic proofs  
+- ⚙️ Clean, modular architecture with React/Next.js (change if needed)  
+- 📦 Backend powered by Supabase or your own database choice  
+- 🔧 Easily extensible via plugin architecture
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/aef4d6df-4f21-427b-9e24-edbeefd9fa30) and start prompting.
+## 🧰 Tech Stack (Example)
 
-Changes made via Lovable will be committed automatically to this repo.
+| Layer       | Technology        |
+|-------------|-------------------|
+| Frontend    | React or Next.js  |
+| Backend     | Node.js + Express / Next API routes |
+| Database    | Supabase (PostgreSQL) |
+| Blockchain  | Ethereum / EVM-compatible chain |
+| Deployment  | Vercel / Netlify / Own hosting |
 
-**Use your preferred IDE**
+## ⚙️ Setup Instructions
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/vaibhav2005‑ssjoce/vital‑chain‑link.git
+   cd vital‑chain‑link
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/aef4d6df-4f21-427b-9e24-edbeefd9fa30) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
